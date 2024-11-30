@@ -1,6 +1,6 @@
 Coursera course: HTML, CSS, and Javascript for Web Developers, Module 5 Coding Assignment, completed.
 
-https://selenearzola.github.io/coursera-course-module5-assignment/
+[https://selenearzola.github.io/coursera-course-module5-assignment/](https://pala423.github.io/module5-solution/)
 
 Time to complete: About 30 minutes.
 
